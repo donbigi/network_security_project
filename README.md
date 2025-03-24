@@ -67,6 +67,7 @@ python analyze.py
 ```
 
 Sample dataset included for demonstration purposes.
+data set was gotten from [Kaggle E-Commerce Website Logs](https://www.kaggle.com/datasets/kzmontage/e-commerce-website-logs?resource=download)
 
 ## Technical Paper Outline (4 Pages)
 
