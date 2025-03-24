@@ -14,7 +14,7 @@ This project implements an end-to-end network security solution for detecting fr
 ## Team Members
 
 - Uche
-- Mat
+- Matt
 
 ## Features
 
