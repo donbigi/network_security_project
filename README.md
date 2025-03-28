@@ -15,6 +15,7 @@ This project implements an end-to-end network security solution for detecting fr
 
 - Uche
 - Matt
+- Hieu
 
 ## Features
 
