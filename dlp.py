@@ -82,4 +82,4 @@ def anonymize_data(
     print(f"Anonymized data saved to {output_csv_file}")
 
 # Example Usage:
-anonymize_data("elated-cathode-358917", "E-commerce_Website_Logs.csv", "anonymized_logs.csv", ["ip"])
+anonymize_data("ghyve-non-production", "E-commerce_Website_Logs.csv", "anonymized_logs.csv", ["ip"])
